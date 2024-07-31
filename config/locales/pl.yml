@@ -294,6 +294,7 @@ pl:
     CC-BY-SA-40: Creative Commons Uznanie autorstwa-Na tych samych warunkach
     CC-PDDC: Creative Commons Deklaracja Domeny Publicznej
     CC0-10: Creative Commons Zero
+    GPL3: Powszechna Licencja Publiczna GNU
     LicenseRef-Commercial: Komercyjne; tylko do użytku prywatnego
     MIT: MIT
   model_component:

@@ -39,6 +39,7 @@ module ModelsHelper
         CC-BY-SA-4.0
         CC-PDDC
         CC0-1.0
+        GPL3
         MIT
         LicenseRef-Commercial
       ].map { |id|
